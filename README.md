@@ -1,2 +1,2 @@
 # CalenderForJavaScript
-Pages -> https://kamonohasikamo.github.io/CalenderForJavaScript/
+Page -> https://kamonohasikamo.github.io/CalenderForJavaScript/
